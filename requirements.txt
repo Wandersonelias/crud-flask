@@ -16,3 +16,5 @@ SQLAlchemy==2.0.46
 typing_extensions==4.15.0
 tzdata==2025.3
 Werkzeug==2.3.0
+requests==2.31.0
+pytest==7.4.3
